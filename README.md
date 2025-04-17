@@ -15,4 +15,4 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_Our team, named Kinisi, comprises Camila G.Delgado, Maria Gabriela Maldonado, and Carmelo Farrauto. Our shared objective is to participate in and maximize learning and knowledge acquisition at the WRO in the Future Engineers category. Within this repository, you will find comprehensive information about our Kinisi vehicle: programming codes, photos and videos of the car, components and materials used, its design, and other details about Kinisi._
+_Our team, named Kinisi, comprises Camila Gómez Delgado, Maria Gabriela Maldonado, and Carmelo Farrauto. Our shared objective is to participate in and maximize learning and knowledge acquisition at the WRO in the Future Engineers category. Within this repository, you will find comprehensive information about our Kinisi vehicle: programming codes, photos and videos of the car, components and materials used, its design, and other details about Kinisi._
